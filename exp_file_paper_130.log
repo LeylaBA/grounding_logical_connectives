@@ -1,0 +1,1226 @@
+New experiment started. Timestamp: 2026_01_25__15_55_42
+Experiment stopped. Timestamp: 2026_01_25__15_55_58
+New experiment started. Timestamp: 2026_01_25__15_56_00
+11.4s	[Trial success]	1_11111
+
+11.5s	[Trial success]	1_11111
+
+12.1s	[Trial success]	1_11111
+
+13.6s	[Trial success]	1_11111
+
+11.6s	[Trial success]	1_11111
+
+12.7s	[Trial success]	1_11111
+
+11.8s	[Trial success]	1_11111
+
+11.7s	[Trial success]	1_11111
+
+11.4s	[Trial success]	1_11111
+
+11.5s	[Trial success]	1_11111
+
+11.5s	[Trial success]	1_11111
+
+13.0s	[Trial success]	1_11111
+
+11.9s	[Trial success]	1_11111
+
+11.5s	[Trial success]	1_11111
+
+11.8s	[Trial success]	1_11111
+
+11.7s	[Trial success]	1_11111
+
+11.5s	[Trial success]	1_11111
+
+11.9s	[Trial success]	1_11111
+
+11.8s	[Trial success]	1_11111
+
+11.6s	[Trial success]	1_11111
+
+11.6s	[Trial success]	1_11111
+
+12.1s	[Trial success]	1_11111
+
+11.2s	[Trial success]	1_11111
+
+12.5s	[Trial success]	1_11111
+
+12.3s	[Trial success]	1_11111
+
+13.4s	[Trial success]	1_11111
+
+11.2s	[Trial success]	1_11111
+
+12.3s	[Trial success]	1_11111
+
+12.6s	[Trial success]	1_11111
+
+12.2s	[Trial success]	1_11111
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__16_08_58
+New experiment started. Timestamp: 2026_01_25__16_18_07
+13.5s	[Trial success]	2_11222
+
+
+13.7s	[Trial success]	2_11222
+
+
+13.4s	[Trial success]	2_11222
+
+
+13.6s	[Trial success]	2_11222
+
+
+13.1s	[Trial success]	2_11222
+
+
+14.1s	[Trial success]	2_11222
+
+
+13.1s	[Trial success]	2_11222
+
+
+12.8s	[Trial success]	2_11222
+
+
+13.8s	[Trial success]	2_11222
+
+
+13.1s	[Trial success]	2_11222
+
+
+12.6s	[Trial success]	2_11222
+
+
+13.2s	[Trial success]	2_11222
+
+
+14.0s	[Trial success]	2_11222
+
+
+14.0s	[Trial success]	2_11222
+
+
+13.8s	[Trial success]	2_11222
+
+
+13.6s	[Trial success]	2_11222
+
+
+13.3s	[Trial success]	2_11222
+
+
+13.1s	[Trial success]	2_11222
+
+
+12.5s	[Trial success]	2_11222
+
+
+13.2s	[Trial success]	2_11222
+
+
+14.0s	[Trial success]	2_11222
+
+
+12.9s	[Trial success]	2_11222
+
+
+13.8s	[Trial success]	2_11222
+
+
+12.7s	[Trial success]	2_11222
+
+
+13.1s	[Trial success]	2_11222
+
+
+12.9s	[Trial success]	2_11222
+
+
+13.5s	[Trial success]	2_11222
+
+
+13.4s	[Trial success]	2_11222
+
+
+13.0s	[Trial success]	2_11222
+
+
+13.8s	[Trial success]	2_11222
+
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__16_32_17
+New experiment started. Timestamp: 2026_01_25__16_45_15
+12.9s	[Trial success]	3_11121
+
+12.6s	[Trial success]	3_11121
+
+12.9s	[Trial success]	3_11121
+
+12.3s	[Trial success]	3_11121
+
+12.4s	[Trial success]	3_11121
+
+12.2s	[Trial success]	3_11121
+
+12.1s	[Trial success]	3_11121
+
+12.4s	[Trial success]	3_11121
+
+12.4s	[Trial success]	3_11121
+
+11.8s	[Trial success]	3_11121
+
+12.6s	[Trial success]	3_11121
+
+11.9s	[Trial success]	3_11121
+
+12.6s	[Trial success]	3_11121
+
+12.5s	[Trial success]	3_11121
+
+11.8s	[Trial success]	3_11121
+
+12.8s	[Trial success]	3_11121
+
+12.2s	[Trial success]	3_11121
+
+12.0s	[Trial success]	3_11121
+
+12.8s	[Trial success]	3_11121
+
+12.5s	[Trial success]	3_11121
+
+11.7s	[Trial success]	3_11121
+
+12.6s	[Trial success]	3_11121
+
+12.1s	[Trial success]	3_11121
+
+11.8s	[Trial success]	3_11121
+
+11.9s	[Trial success]	3_11121
+
+12.6s	[Trial success]	3_11121
+
+12.4s	[Trial success]	3_11121
+
+13.1s	[Trial success]	3_11121
+
+12.1s	[Trial success]	3_11121
+
+12.8s	[Trial success]	3_11121
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__16_58_29
+New experiment started. Timestamp: 2026_01_25__17_00_30
+12.9s	[Trial success]	4_12111
+
+13.3s	[Trial success]	4_12111
+
+12.7s	[Trial success]	4_12111
+
+12.3s	[Trial success]	4_12111
+
+12.9s	[Trial success]	4_12111
+
+12.2s	[Trial success]	4_12111
+
+12.4s	[Trial success]	4_12111
+
+12.5s	[Trial success]	4_12111
+
+12.5s	[Trial success]	4_12111
+
+12.1s	[Trial success]	4_12111
+
+12.1s	[Trial success]	4_12111
+
+13.5s	[Trial success]	4_12111
+
+12.9s	[Trial success]	4_12111
+
+12.4s	[Trial success]	4_12111
+
+12.5s	[Trial success]	4_12111
+
+12.2s	[Trial success]	4_12111
+
+12.2s	[Trial success]	4_12111
+
+13.5s	[Trial success]	4_12111
+
+13.2s	[Trial success]	4_12111
+
+12.4s	[Trial success]	4_12111
+
+13.3s	[Trial success]	4_12111
+
+13.0s	[Trial success]	4_12111
+
+13.8s	[Trial success]	4_12111
+
+12.9s	[Trial success]	4_12111
+
+14.0s	[Trial success]	4_12111
+
+12.7s	[Trial success]	4_12111
+
+12.9s	[Trial success]	4_12111
+
+12.9s	[Trial success]	4_12111
+
+12.5s	[Trial success]	4_12111
+
+11.9s	[Trial success]	4_12111
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__17_14_04
+New experiment started. Timestamp: 2026_01_25__17_20_21
+12.5s	[Trial success]	5_12222
+
+12.5s	[Trial success]	5_12222
+
+12.3s	[Trial success]	5_12222
+
+12.2s	[Trial success]	5_12222
+
+13.2s	[Trial success]	5_12222
+
+13.3s	[Trial success]	5_12222
+
+12.2s	[Trial success]	5_12222
+
+12.5s	[Trial success]	5_12222
+
+12.7s	[Trial success]	5_12222
+
+11.7s	[Trial success]	5_12222
+
+12.5s	[Trial success]	5_12222
+
+12.1s	[Trial success]	5_12222
+
+11.8s	[Trial success]	5_12222
+
+12.6s	[Trial success]	5_12222
+
+12.6s	[Trial success]	5_12222
+
+12.2s	[Trial success]	5_12222
+
+11.9s	[Trial success]	5_12222
+
+12.5s	[Trial success]	5_12222
+
+11.7s	[Trial success]	5_12222
+
+12.7s	[Trial success]	5_12222
+
+12.4s	[Trial success]	5_12222
+
+11.9s	[Trial success]	5_12222
+
+12.4s	[Trial success]	5_12222
+
+12.5s	[Trial success]	5_12222
+
+12.1s	[Trial success]	5_12222
+
+12.1s	[Trial success]	5_12222
+
+11.9s	[Trial success]	5_12222
+
+12.6s	[Trial success]	5_12222
+
+12.5s	[Trial success]	5_12222
+
+11.6s	[Trial success]	5_12222
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__17_33_40
+New experiment started. Timestamp: 2026_01_25__17_40_16
+12.5s	[Trial success]	6_12211
+
+11.9s	[Trial success]	6_12211
+
+12.5s	[Trial success]	6_12211
+
+13.2s	[Trial success]	6_12211
+
+12.2s	[Trial success]	6_12211
+
+11.6s	[Trial success]	6_12211
+
+11.9s	[Trial success]	6_12211
+
+12.5s	[Trial success]	6_12211
+
+12.4s	[Trial success]	6_12211
+
+11.5s	[Trial success]	6_12211
+
+12.4s	[Trial success]	6_12211
+
+12.0s	[Trial success]	6_12211
+
+11.9s	[Trial success]	6_12211
+
+13.4s	[Trial success]	6_12211
+
+12.6s	[Trial success]	6_12211
+
+11.6s	[Trial success]	6_12211
+
+12.2s	[Trial success]	6_12211
+
+12.9s	[Trial success]	6_12211
+
+11.6s	[Trial success]	6_12211
+
+13.5s	[Trial success]	6_12211
+
+11.9s	[Trial success]	6_12211
+
+12.5s	[Trial success]	6_12211
+
+12.5s	[Trial success]	6_12211
+
+13.0s	[Trial success]	6_12211
+
+12.8s	[Trial success]	6_12211
+
+12.7s	[Trial success]	6_12211
+
+12.1s	[Trial success]	6_12211
+
+13.1s	[Trial success]	6_12211
+
+12.0s	[Trial success]	6_12211
+
+12.3s	[Trial success]	6_12211
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__17_50_07
+New experiment started. Timestamp: 2026_01_25__17_51_59
+12.1s	[Trial success]	7_21121
+
+12.3s	[Trial success]	7_21121
+
+12.3s	[Trial success]	7_21121
+
+11.4s	[Trial success]	7_21121
+
+13.0s	[Trial success]	7_21121
+
+12.0s	[Trial success]	7_21121
+
+12.8s	[Trial success]	7_21121
+
+12.0s	[Trial success]	7_21121
+
+12.7s	[Trial success]	7_21121
+
+12.6s	[Trial success]	7_21121
+
+12.4s	[Trial success]	7_21121
+
+12.7s	[Trial success]	7_21121
+
+12.3s	[Trial success]	7_21121
+
+12.7s	[Trial success]	7_21121
+
+12.4s	[Trial success]	7_21121
+
+11.8s	[Trial success]	7_21121
+
+12.2s	[Trial success]	7_21121
+
+12.3s	[Trial success]	7_21121
+
+12.1s	[Trial success]	7_21121
+
+11.8s	[Trial success]	7_21121
+
+12.3s	[Trial success]	7_21121
+
+12.2s	[Trial success]	7_21121
+
+13.1s	[Trial success]	7_21121
+
+11.9s	[Trial success]	7_21121
+
+12.9s	[Trial success]	7_21121
+
+11.6s	[Trial success]	7_21121
+
+11.9s	[Trial success]	7_21121
+
+12.3s	[Trial success]	7_21121
+
+11.9s	[Trial success]	7_21121
+
+12.4s	[Trial success]	7_21121
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__18_04_59
+New experiment started. Timestamp: 2026_01_25__18_06_49
+13.5s	[Trial success]	8_21222
+
+12.7s	[Trial success]	8_21222
+
+13.2s	[Trial success]	8_21222
+
+13.6s	[Trial success]	8_21222
+
+12.7s	[Trial success]	8_21222
+
+13.1s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.1s	[Trial success]	8_21222
+
+13.0s	[Trial success]	8_21222
+
+12.5s	[Trial success]	8_21222
+
+13.7s	[Trial success]	8_21222
+
+14.1s	[Trial success]	8_21222
+
+13.1s	[Trial success]	8_21222
+
+13.1s	[Trial success]	8_21222
+
+13.7s	[Trial success]	8_21222
+
+13.1s	[Trial success]	8_21222
+
+13.7s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.2s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.5s	[Trial success]	8_21222
+
+14.1s	[Trial success]	8_21222
+
+13.4s	[Trial success]	8_21222
+
+13.6s	[Trial success]	8_21222
+
+14.1s	[Trial success]	8_21222
+
+12.8s	[Trial success]	8_21222
+
+13.1s	[Trial success]	8_21222
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__18_17_23
+New experiment started. Timestamp: 2026_01_25__18_19_05
+12.5s	[Trial success]	9_21112
+
+13.5s	[Trial success]	9_21112
+
+12.8s	[Trial success]	9_21112
+
+12.7s	[Trial success]	9_21112
+
+13.8s	[Trial success]	9_21112
+
+12.7s	[Trial success]	9_21112
+
+12.6s	[Trial success]	9_21112
+
+12.2s	[Trial success]	9_21112
+
+12.6s	[Trial success]	9_21112
+
+14.0s	[Trial success]	9_21112
+
+13.1s	[Trial success]	9_21112
+
+12.2s	[Trial success]	9_21112
+
+12.9s	[Trial success]	9_21112
+
+12.6s	[Trial success]	9_21112
+
+12.3s	[Trial success]	9_21112
+
+12.6s	[Trial success]	9_21112
+
+12.4s	[Trial success]	9_21112
+
+12.6s	[Trial success]	9_21112
+
+12.2s	[Trial success]	9_21112
+
+12.5s	[Trial success]	9_21112
+
+12.8s	[Trial success]	9_21112
+
+12.2s	[Trial success]	9_21112
+
+12.2s	[Trial success]	9_21112
+
+12.3s	[Trial success]	9_21112
+
+13.3s	[Trial success]	9_21112
+
+13.0s	[Trial success]	9_21112
+
+12.3s	[Trial success]	9_21112
+
+12.2s	[Trial success]	9_21112
+
+12.1s	[Trial success]	9_21112
+
+12.3s	[Trial success]	9_21112
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__18_29_07
+New experiment started. Timestamp: 2026_01_25__18_30_55
+12.5s	[Trial success]	10_22211
+
+12.6s	[Trial success]	10_22211
+
+12.5s	[Trial success]	10_22211
+
+12.2s	[Trial success]	10_22211
+
+13.1s	[Trial success]	10_22211
+
+12.9s	[Trial success]	10_22211
+
+11.8s	[Trial success]	10_22211
+
+12.1s	[Trial success]	10_22211
+
+12.0s	[Trial success]	10_22211
+
+11.9s	[Trial success]	10_22211
+
+12.5s	[Trial success]	10_22211
+
+12.5s	[Trial success]	10_22211
+
+12.1s	[Trial success]	10_22211
+
+11.9s	[Trial success]	10_22211
+
+11.9s	[Trial success]	10_22211
+
+12.0s	[Trial success]	10_22211
+
+11.7s	[Trial success]	10_22211
+
+11.5s	[Trial success]	10_22211
+
+13.2s	[Trial success]	10_22211
+
+12.0s	[Trial success]	10_22211
+
+12.2s	[Trial success]	10_22211
+
+12.1s	[Trial success]	10_22211
+
+12.1s	[Trial success]	10_22211
+
+13.1s	[Trial success]	10_22211
+
+12.0s	[Trial success]	10_22211
+
+11.8s	[Trial success]	10_22211
+
+12.2s	[Trial success]	10_22211
+
+12.0s	[Trial success]	10_22211
+
+12.5s	[Trial success]	10_22211
+
+12.0s	[Trial success]	10_22211
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__18_41_53
+New experiment started. Timestamp: 2026_01_25__18_44_31
+13.4s	[Trial success]	11_22112
+
+13.1s	[Trial success]	11_22112
+
+13.3s	[Trial success]	11_22112
+
+12.8s	[Trial success]	11_22112
+
+12.7s	[Trial success]	11_22112
+
+13.9s	[Trial success]	11_22112
+
+13.3s	[Trial success]	11_22112
+
+13.4s	[Trial success]	11_22112
+
+13.2s	[Trial success]	11_22112
+
+13.9s	[Trial success]	11_22112
+
+12.9s	[Trial success]	11_22112
+
+12.8s	[Trial success]	11_22112
+
+13.7s	[Trial success]	11_22112
+
+12.7s	[Trial success]	11_22112
+
+12.8s	[Trial success]	11_22112
+
+12.9s	[Trial success]	11_22112
+
+13.8s	[Trial success]	11_22112
+
+13.5s	[Trial success]	11_22112
+
+13.8s	[Trial success]	11_22112
+
+12.8s	[Trial success]	11_22112
+
+13.6s	[Trial success]	11_22112
+
+13.4s	[Trial success]	11_22112
+
+13.8s	[Trial success]	11_22112
+
+12.8s	[Trial success]	11_22112
+
+12.6s	[Trial success]	11_22112
+
+12.7s	[Trial success]	11_22112
+
+13.1s	[Trial success]	11_22112
+
+13.7s	[Trial success]	11_22112
+
+14.7s	[Trial success]	11_22112
+
+12.9s	[Trial success]	11_22112
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__18_58_22
+New experiment started. Timestamp: 2026_01_25__19_00_13
+12.3s	[Trial success]	12_22222
+
+
+12.7s	[Trial success]	12_22222
+
+
+12.7s	[Trial success]	12_22222
+
+
+13.1s	[Trial success]	12_22222
+
+
+12.8s	[Trial success]	12_22222
+
+
+12.6s	[Trial success]	12_22222
+
+
+12.8s	[Trial success]	12_22222
+
+
+12.5s	[Trial success]	12_22222
+
+
+12.9s	[Trial success]	12_22222
+
+
+13.5s	[Trial success]	12_22222
+
+
+12.6s	[Trial success]	12_22222
+
+
+12.4s	[Trial success]	12_22222
+
+
+12.5s	[Trial success]	12_22222
+
+
+13.5s	[Trial success]	12_22222
+
+
+13.9s	[Trial success]	12_22222
+
+
+12.6s	[Trial success]	12_22222
+
+
+13.3s	[Trial success]	12_22222
+
+
+12.5s	[Trial success]	12_22222
+
+
+12.4s	[Trial success]	12_22222
+
+
+13.0s	[Trial success]	12_22222
+
+
+12.9s	[Trial success]	12_22222
+
+
+12.8s	[Trial success]	12_22222
+
+
+12.4s	[Trial success]	12_22222
+
+
+13.3s	[Trial success]	12_22222
+
+
+12.7s	[Trial success]	12_22222
+
+
+13.4s	[Trial success]	12_22222
+
+
+12.8s	[Trial success]	12_22222
+
+
+12.3s	[Trial success]	12_22222
+
+
+12.5s	[Trial success]	12_22222
+
+
+12.8s	[Trial success]	12_22222
+
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__19_12_09
+New experiment started. Timestamp: 2026_01_25__19_14_03
+11.2s	[Trial success]	13_31111
+
+12.3s	[Trial success]	13_31111
+
+12.1s	[Trial success]	13_31111
+
+12.2s	[Trial success]	13_31111
+
+12.3s	[Trial success]	13_31111
+
+11.4s	[Trial success]	13_31111
+
+11.4s	[Trial success]	13_31111
+
+12.1s	[Trial success]	13_31111
+
+12.3s	[Trial success]	13_31111
+
+12.1s	[Trial success]	13_31111
+
+11.6s	[Trial success]	13_31111
+
+11.2s	[Trial success]	13_31111
+
+11.4s	[Trial success]	13_31111
+
+11.9s	[Trial success]	13_31111
+
+12.1s	[Trial success]	13_31111
+
+12.4s	[Trial success]	13_31111
+
+12.1s	[Trial success]	13_31111
+
+10.9s	[Trial success]	13_31111
+
+12.4s	[Trial success]	13_31111
+
+11.9s	[Trial success]	13_31111
+
+11.9s	[Trial success]	13_31111
+
+12.0s	[Trial success]	13_31111
+
+12.0s	[Trial success]	13_31111
+
+12.5s	[Trial success]	13_31111
+
+11.5s	[Trial success]	13_31111
+
+11.9s	[Trial success]	13_31111
+
+11.6s	[Trial success]	13_31111
+
+12.5s	[Trial success]	13_31111
+
+11.3s	[Trial success]	13_31111
+
+11.7s	[Trial success]	13_31111
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__19_25_24
+New experiment started. Timestamp: 2026_01_25__19_26_32
+13.6s	[Trial success]	14_31122
+
+
+14.3s	[Trial success]	14_31122
+
+
+13.1s	[Trial success]	14_31122
+
+
+14.7s	[Trial success]	14_31122
+
+
+13.8s	[Trial success]	14_31122
+
+
+13.9s	[Trial success]	14_31122
+
+
+13.3s	[Trial success]	14_31122
+
+
+12.4s	[Trial success]	14_31122
+
+
+12.4s	[Trial success]	14_31122
+
+
+12.4s	[Trial success]	14_31122
+
+
+13.2s	[Trial success]	14_31122
+
+
+13.5s	[Trial success]	14_31122
+
+
+12.7s	[Trial success]	14_31122
+
+
+12.8s	[Trial success]	14_31122
+
+
+13.4s	[Trial success]	14_31122
+
+
+12.9s	[Trial success]	14_31122
+
+
+12.5s	[Trial success]	14_31122
+
+
+13.2s	[Trial success]	14_31122
+
+
+13.0s	[Trial success]	14_31122
+
+
+13.0s	[Trial success]	14_31122
+
+
+12.9s	[Trial success]	14_31122
+
+
+13.0s	[Trial success]	14_31122
+
+
+13.3s	[Trial success]	14_31122
+
+
+12.6s	[Trial success]	14_31122
+
+
+13.0s	[Trial success]	14_31122
+
+
+13.5s	[Trial success]	14_31122
+
+
+13.3s	[Trial success]	14_31122
+
+
+13.0s	[Trial success]	14_31122
+
+
+12.8s	[Trial success]	14_31122
+
+
+13.4s	[Trial success]	14_31122
+
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__19_38_00
+New experiment started. Timestamp: 2026_01_25__19_39_12
+13.0s	[Trial success]	15_31222
+
+14.5s	[Trial success]	15_31222
+
+12.9s	[Trial success]	15_31222
+
+13.6s	[Trial success]	15_31222
+
+13.3s	[Trial success]	15_31222
+
+13.3s	[Trial success]	15_31222
+
+13.7s	[Trial success]	15_31222
+
+13.0s	[Trial success]	15_31222
+
+14.4s	[Trial success]	15_31222
+
+12.7s	[Trial success]	15_31222
+
+13.2s	[Trial success]	15_31222
+
+13.0s	[Trial success]	15_31222
+
+13.7s	[Trial success]	15_31222
+
+13.5s	[Trial success]	15_31222
+
+12.9s	[Trial success]	15_31222
+
+13.0s	[Trial success]	15_31222
+
+12.8s	[Trial success]	15_31222
+
+14.1s	[Trial success]	15_31222
+
+13.2s	[Trial success]	15_31222
+
+14.5s	[Trial success]	15_31222
+
+13.7s	[Trial success]	15_31222
+
+13.5s	[Trial success]	15_31222
+
+13.0s	[Trial success]	15_31222
+
+13.4s	[Trial success]	15_31222
+
+14.1s	[Trial success]	15_31222
+
+13.0s	[Trial success]	15_31222
+
+13.3s	[Trial success]	15_31222
+
+13.1s	[Trial success]	15_31222
+
+13.6s	[Trial success]	15_31222
+
+13.1s	[Trial success]	15_31222
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__19_50_55
+New experiment started. Timestamp: 2026_01_25__19_52_53
+12.5s	[Trial success]	16_32222
+
+12.1s	[Trial success]	16_32222
+
+12.4s	[Trial success]	16_32222
+
+12.8s	[Trial success]	16_32222
+
+13.1s	[Trial success]	16_32222
+
+12.4s	[Trial success]	16_32222
+
+13.2s	[Trial success]	16_32222
+
+12.9s	[Trial success]	16_32222
+
+11.8s	[Trial success]	16_32222
+
+12.4s	[Trial success]	16_32222
+
+13.0s	[Trial success]	16_32222
+
+12.3s	[Trial success]	16_32222
+
+12.7s	[Trial success]	16_32222
+
+13.3s	[Trial success]	16_32222
+
+13.0s	[Trial success]	16_32222
+
+12.0s	[Trial success]	16_32222
+
+12.0s	[Trial success]	16_32222
+
+12.9s	[Trial success]	16_32222
+
+12.6s	[Trial success]	16_32222
+
+12.0s	[Trial success]	16_32222
+
+12.3s	[Trial success]	16_32222
+
+12.7s	[Trial success]	16_32222
+
+12.2s	[Trial success]	16_32222
+
+12.9s	[Trial success]	16_32222
+
+12.2s	[Trial success]	16_32222
+
+11.9s	[Trial success]	16_32222
+
+13.0s	[Trial success]	16_32222
+
+13.2s	[Trial success]	16_32222
+
+12.2s	[Trial success]	16_32222
+
+12.2s	[Trial success]	16_32222
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__20_06_19
+New experiment started. Timestamp: 2026_01_25__20_15_00
+12.9s	[Trial success]	17_32111
+
+13.0s	[Trial success]	17_32111
+
+12.5s	[Trial success]	17_32111
+
+12.3s	[Trial success]	17_32111
+
+12.1s	[Trial success]	17_32111
+
+12.4s	[Trial success]	17_32111
+
+13.2s	[Trial success]	17_32111
+
+12.8s	[Trial success]	17_32111
+
+12.0s	[Trial success]	17_32111
+
+13.7s	[Trial success]	17_32111
+
+12.4s	[Trial success]	17_32111
+
+12.6s	[Trial success]	17_32111
+
+12.5s	[Trial success]	17_32111
+
+12.0s	[Trial success]	17_32111
+
+13.4s	[Trial success]	17_32111
+
+12.1s	[Trial success]	17_32111
+
+12.1s	[Trial success]	17_32111
+
+12.7s	[Trial success]	17_32111
+
+13.5s	[Trial success]	17_32111
+
+13.1s	[Trial success]	17_32111
+
+13.4s	[Trial success]	17_32111
+
+14.2s	[Trial success]	17_32111
+
+13.0s	[Trial success]	17_32111
+
+12.6s	[Trial success]	17_32111
+
+12.8s	[Trial success]	17_32111
+
+12.7s	[Trial success]	17_32111
+
+13.6s	[Trial success]	17_32111
+
+13.7s	[Trial success]	17_32111
+
+12.2s	[Trial success]	17_32111
+
+12.9s	[Trial success]	17_32111
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__20_28_02
+New experiment started. Timestamp: 2026_01_25__21_05_56
+13.3s	[Trial success]	18_32212
+
+12.5s	[Trial success]	18_32212
+
+13.8s	[Trial success]	18_32212
+
+12.8s	[Trial success]	18_32212
+
+13.3s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+13.4s	[Trial success]	18_32212
+
+13.4s	[Trial success]	18_32212
+
+12.3s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+13.8s	[Trial success]	18_32212
+
+13.4s	[Trial success]	18_32212
+
+12.9s	[Trial success]	18_32212
+
+12.2s	[Trial success]	18_32212
+
+13.2s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+12.5s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+12.7s	[Trial success]	18_32212
+
+12.7s	[Trial success]	18_32212
+
+12.5s	[Trial success]	18_32212
+
+13.6s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+13.0s	[Trial success]	18_32212
+
+12.4s	[Trial success]	18_32212
+
+13.9s	[Trial success]	18_32212
+
+13.5s	[Trial success]	18_32212
+
+12.6s	[Trial success]	18_32212
+
+12.4s	[Trial success]	18_32212
+
+Trying to stop() the currently running thread will not work as expected, prefer calling requestStop() to quit thread after current execution yields (current LoopedThread::step() finishes).
+Experiment stopped. Timestamp: 2026_01_25__21_16_04
